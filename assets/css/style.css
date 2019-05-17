@@ -49,10 +49,10 @@ button.navbar-toggle {
 
 .bgimg-1 {
     background-image: url(PE\ 2\ final.jpg);
-    min-height: 100%;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: fixed;  
+
     width: 100%;
     height: 100%;
     object-fit: contain;
@@ -166,7 +166,7 @@ button.navbar-toggle {
 }
 
 .bgimg-2 {
-    background-image: url('https://image.ibb.co/jff1ma/tumblr_static_78g6a378ny0w00w0og0s0ww48.png');
+    background-image: url("josh-hild-1407748-unsplash.jpg");
     min-height: 400px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -276,13 +276,13 @@ button a:active {
     text-decoration: none;
 }
 
-/* .choose {
+/* {
   padding-top: 10%;
   padding-bottom: 7%;
   font: 17px "Oswald", sans-serif;
   letter-spacing: 10px;
   text-align: center;
-}
+} */
 
 
 .social {
@@ -312,7 +312,7 @@ button a:active {
 
 
 .bgimg-3 {
-  background-image: url('https://preview.ibb.co/kx5oCF/z5FnCRM.jpg');
+  background-image: url('josh-hild-1407748-unsplash.jpg');
   min-height: 400px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -448,7 +448,7 @@ button a:active {
 
 .bgimg-4 {
     background-color: #222222;
-    background-image: url('https://image.ibb.co/jff1ma/tumblr_static_78g6a378ny0w00w0og0s0ww48.png');
+    background-image: url('josh-hild-1407748-unsplash.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
